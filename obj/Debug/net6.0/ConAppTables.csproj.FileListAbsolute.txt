@@ -1,0 +1,14 @@
+D:\Phase-4 Mphasis\Jenkins15Feb\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.exe
+D:\Phase-4 Mphasis\Jenkins15Feb\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.deps.json
+D:\Phase-4 Mphasis\Jenkins15Feb\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.runtimeconfig.json
+D:\Phase-4 Mphasis\Jenkins15Feb\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.dll
+D:\Phase-4 Mphasis\Jenkins15Feb\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.pdb
+D:\Phase-4 Mphasis\Jenkins15Feb\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase-4 Mphasis\Jenkins15Feb\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.AssemblyInfoInputs.cache
+D:\Phase-4 Mphasis\Jenkins15Feb\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.AssemblyInfo.cs
+D:\Phase-4 Mphasis\Jenkins15Feb\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.csproj.CoreCompileInputs.cache
+D:\Phase-4 Mphasis\Jenkins15Feb\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.dll
+D:\Phase-4 Mphasis\Jenkins15Feb\ConAppTables\ConAppTables\obj\Debug\net6.0\refint\ConAppTables.dll
+D:\Phase-4 Mphasis\Jenkins15Feb\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.pdb
+D:\Phase-4 Mphasis\Jenkins15Feb\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.genruntimeconfig.cache
+D:\Phase-4 Mphasis\Jenkins15Feb\ConAppTables\ConAppTables\obj\Debug\net6.0\ref\ConAppTables.dll
